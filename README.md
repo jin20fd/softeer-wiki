@@ -6,15 +6,16 @@
 - [ ]  Concurrent 패키지의 쓰임새 이해하고 활용하기
 
 ### 기록
-**1일차**
+**[1일차](https://github.com/jin20fd/softeer-wiki/blob/main/1%EC%A3%BC%EC%B0%A8/1%EC%9D%BC%EC%B0%A8.md)**
 - 과제 파악
 - JAVA의 Thread 모델, JVM에 대한 학습
 
-**2일차**
+**[2일차](https://github.com/jin20fd/softeer-wiki/blob/main/1%EC%A3%BC%EC%B0%A8/2%EC%9D%BC%EC%B0%A8.md)**
 - 1주차 과제의 목표와 구현 계획 수립
 - 1~3 단계를 모두 고려한 간단한 설계 기획
 
-**3일차**
+**[3일차](https://github.com/jin20fd/softeer-wiki/blob/main/1%EC%A3%BC%EC%B0%A8/3%EC%9D%BC%EC%B0%A8.md)**
 - 카페 도메인 설계
 - WAS 1주차 1단계 미션 수행
+  - 미션 요구사항 구현, 에러처리, 의존성 주입 학습
 

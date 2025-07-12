@@ -24,3 +24,8 @@
   - RequestHandler 의존성 주입 리팩토링, final 키워드
 - WAS 1주차 2단계 미션 수행
   - 응답 객체 구현, MIME 타입 학습
+
+
+**[5일차](https://github.com/jin20fd/softeer-wiki/blob/main/1%EC%A3%BC%EC%B0%A8/5%EC%9D%BC%EC%B0%A8.md)**
+- WAS 1주차 2단계 미션 완성 - [PR링크](https://github.com/softeerbootcamp-6th/be-was-2025/pull/20)
+- WAS 1주차 3단계 미션 수행

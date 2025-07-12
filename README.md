@@ -24,4 +24,3 @@
   - RequestHandler 의존성 주입 리팩토링, final 키워드
 - WAS 1주차 2단계 미션 수행
   - 응답 객체 구현, MIME 타입 학습
-

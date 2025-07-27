@@ -30,5 +30,7 @@
 
 ## 회고
 [주간 회고](https://github.com/jin20fd/softeer-wiki/blob/main/1%EC%A3%BC%EC%B0%A8/%EC%A3%BC%EA%B0%84%ED%9A%8C%EA%B3%A0.md)
+- 그룹회고 : 성유진, 임규현, 한경준
+- 개인회고
 
 *날짜별 회고는 각 날짜의 학습일지와 함께 기록
